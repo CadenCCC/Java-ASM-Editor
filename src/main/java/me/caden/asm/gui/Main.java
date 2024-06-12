@@ -7,6 +7,8 @@ package me.caden.asm.gui;
 public class Main {
 
     public static void main(String[] args) {
+        // Setting up all the Gui Stuff for the program
+
 
     }
 }
