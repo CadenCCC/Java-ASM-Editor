@@ -19,8 +19,6 @@ dependencies {
     implementation libs.guava
 }
 
-java {
-}
 
 jar {
     //noinspection GroovyAssignabilityCheck
